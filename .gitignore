@@ -2,6 +2,7 @@
 output/
 datasets/VOC2007/Annotations/
 datasets/VOC2007/JPEGImages/
+datasets/VOC2007/ImageSets/
 
 
 # Editors
